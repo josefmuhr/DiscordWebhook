@@ -1,3 +1,3 @@
 # DiscordWebhook
-Webhook for automatical Discord Updates
+Webhook for automatic Discord Updates
 This is a update!
